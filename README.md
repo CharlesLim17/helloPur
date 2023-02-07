@@ -7,5 +7,7 @@ Simple app that implement the libraries:
 - ForegroundColorSpan
 
 # Demonstration
-https://user-images.githubusercontent.com/99405936/217186239-0d79a47b-fd1f-430a-a440-5112395344c6.mp4
+
+https://user-images.githubusercontent.com/99405936/217186457-7f7e4757-048d-451e-ac5f-ab23ebc730ac.mp4
+
 
